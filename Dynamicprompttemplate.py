@@ -1,4 +1,3 @@
-# Try using paid source not working well with open source
 from langchain_huggingface import ChatHuggingFace,HuggingFaceEndpoint
 from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
